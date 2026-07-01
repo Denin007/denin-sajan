@@ -18,11 +18,6 @@ What I bring beyond the technical skills is two years of 24/7 operational experi
 
 ## 🔐 Security Projects
 
-### 🖧 Enterprise Lab — 12-VM Network Environment
-- Deployed **Zabbix SIEM** for continuous security monitoring across Windows Server and Linux hosts
-- Configured **Active Directory**, Group Policy Objects, VLAN segmentation, and firewall rules
-- Monitored 2,500+ endpoint events — reduced false-positive alert rates by **18%** through detection rule refinement
-- Analysed network traffic using **Wireshark** to identify anomalous connections and C2 patterns
 
 ### 🔍 Penetration Testing Assessment *(MSc Project)*
 - Performed network reconnaissance using **Nmap** to enumerate open ports and services
@@ -34,11 +29,6 @@ What I bring beyond the technical skills is two years of 24/7 operational experi
 - Processed 10,000+ malware samples using **Python (Scikit-Learn, XGBoost)**
 - Achieved **98.84% classification accuracy** through behavioural feature extraction
 - Built an end-to-end automated analysis pipeline from data ingestion to structured output
-
-### 🌐 Web Application Security
-- Assessed **OWASP Top 10** vulnerability classes using **Burp Suite**
-- Identified SQL injection, XSS, broken authentication, and IDOR weaknesses across 20+ lab environments
-- Completed structured labs on **TryHackMe** and **HackTheBox** with documented case write-ups
 
 ---
 
